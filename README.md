@@ -5,7 +5,7 @@
 ---
 
 ## 🎥 Showcase
-
+<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/6d0a4f02-e360-4f7c-9e20-bb53e0423671" />
 [![Showcase]([https://path-to-your-image.png](https://github.com/user-attachments/assets/8652763b-7a36-45c9-bb07-ced2392dec3a))](https://youtu.be/1IWmrUWzqaM)
 
 ---
