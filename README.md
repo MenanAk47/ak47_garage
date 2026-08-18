@@ -6,6 +6,7 @@
 
 ## 🎥 [Showcase](https://youtu.be/1IWmrUWzqaM)
 <img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/6d0a4f02-e360-4f7c-9e20-bb53e0423671" />
+
 ---
 
 ## 🔥 Key Features
